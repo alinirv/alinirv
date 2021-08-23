@@ -4,6 +4,6 @@
 - ✨ Aprendendo desenvolvimento mobile
 - 😄 Pronouns: ela, dela
 
-Sim eu sou curiosa!! Até o momento estou  buscando formaçẽo Full Stack, mas conheci o mobile, então vamos aprender esse também!!
+Sim eu sou curiosa!! Estou  buscando formação Full Stack, mas conheci o mobile, então vamos aprender esse também!!
 
 
